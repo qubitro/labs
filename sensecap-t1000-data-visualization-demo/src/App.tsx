@@ -40,10 +40,12 @@ const calculateCenter = (
   return [centerLat || 0, centerLon || 0];
 };
 function App() {
+  
   const { toast } = useToast();
   const DEVICE_ID = "";
   const PROJECT_ID = "";
   const API_KEY = "";
+
   useEffect(() => {
     init({ apikey: API_KEY });
   }, []);
