@@ -4,7 +4,7 @@ This demo demonstrates sensor data visualization with the Seeed Studio SenseCAP 
 
 [![Deploy with Vercel](https://vercel.com/button)](https://vercel.com/new/clone?repository-url=https%3A%2F%2Fgithub.com%2Fvercel%2Fnext.js%2Ftree%2Fcanary%2Fexamples%2Fhello-world)
 
-![Screenshot](https://github.com/github/labs/sensecap-t1000-data-visualization-demo/blob/src/assets/qubitro-seeed-studio-t1000-data-visualization-demo.png")
+![Screenshot](https://github.com/qubitro/labs/blob/main/sensecap-t1000-data-visualization-demo/src/assets/qubitro-seeed-studio-t1000-data-visualization-demo.png?raw=true)
 
 ## Features
 
