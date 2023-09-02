@@ -31,6 +31,8 @@ npm run dev # or vite
 
 ## Contribution & Support
 
+Visit [Qubitro documentation](https://docs.qubitro.com/rest-api/node-js) to learn more about Qubitro APIs and SDKs.
+
 For issues or suggestions, please open an issue or make a pull request. Contributions are appreciated!
 
 Thank you for trying out the SenseCAP T1000 Data Visualization Demo.
