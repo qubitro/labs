@@ -40,7 +40,7 @@ const calculateCenter = (
   return [centerLat || 0, centerLon || 0];
 };
 function App() {
-  
+
   const { toast } = useToast();
   const DEVICE_ID = "";
   const PROJECT_ID = "";
@@ -187,9 +187,6 @@ function App() {
         </Card>
       </div>
 
-      {/* <pre>
-        <code>{JSON.stringify(deviceData, null, 2)}</code>
-      </pre> */}
     </div>
   );
 }
