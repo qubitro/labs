@@ -9,15 +9,14 @@ This demo demonstrates sensor data visualization with the Seeed Studio SenseCAP 
 ## Features
 
 - **Device**: [Seeed Studio SenseCAP T1000](https://www.seeedstudio.com/)
-- **LNS (LoRaWAN Network Server)**: [The Things Stack](https://www.thethingsnetwork.org/docs/lorawan/the-things-stack.html)
-- **Data Processing**: [@qubitro/client Node.JS SDK](https://www.npmjs.com/package/@qubitro/client) with Qubitro (DDP) support.
+- **LNS (LoRaWAN Network Server)**: [Browse Integrations](https://www.thethingsnetwork.org/docs/lorawan/the-things-stack.html)
+- **Data Processing**: [@qubitro/client Node.JS SDK](https://www.npmjs.com/package/@qubitro/client) with Qubitro (DDP)
 
 ## Quick Start
 
-1. Set up the SenseCAP T1000 and connect it to The Things Stack.
-2. Install the Qubitro SDK: `npm install @qubitro/client`.
-3. Set up no-code integration between Qubitro and The Things Stack using the [Qubitro configuration guide](https://docs.qubitro.com/platform/lorawan/the_things_stack).
-4. Launch the visualization interface.
+1. Set up the SenseCAP T1000 and connect it to an LNS, such as The Things Stack, Loriot, Actility, etc.
+2. Set up a no-code integration between Qubitro and your chosen LNS using [Qubitro's no-code LNS integrations.](https://docs.qubitro.com/platform/lorawan/the_things_stack).
+3. Provide the Device ID, Project ID, and API Key in the App.tsx
 
 
 ## Setup Locally
